@@ -24,6 +24,7 @@ HI! I am a future frontend developer. I want to improve my skills, learn somethi
 ## Languages
 - English (B2)
 - Deutcshe (A1)
+
 ## My hobbies
 - Playing the piano
 - Homemade candles
