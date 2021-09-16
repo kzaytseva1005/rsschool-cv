@@ -14,3 +14,17 @@ HI! I am a future frontend developer. I want to improve my skills, learn somethi
 3) SCSS
 4) Vanilla JS
 5) Git
+## Education
+> 2018-2022\
+> Belarusian State Economic University\
+> Faculty of International Economic Relations\
+> World economy\
+> Bachelor
+## Languages
+- English (B2)
+- Deutcshe (A1)
+## My hobbies
+- Playing the piano
+- Homemade candles
+- Phohtography
+- Tea ceremony
