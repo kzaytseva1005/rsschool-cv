@@ -20,6 +20,7 @@ HI! I am a future frontend developer. I want to improve my skills, learn somethi
 > Faculty of International Economic Relations\
 > World economy\
 > Bachelor
+
 ## Languages
 - English (B2)
 - Deutcshe (A1)
