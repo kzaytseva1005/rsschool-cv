@@ -4,6 +4,9 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="./reset.css">
         <link rel="stylesheet" href="./style.css">
+        <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@11.2.0/styles/default.min.css">
+        <script src="https://unpkg.com/@highlightjs/cdn-assets@11.2.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Meddon&family=Raleway:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
@@ -47,7 +50,7 @@
                 </div>
                 <div class="colomn2">
                     <section class="about-me">
-                        <h2 class="colomn-title">about me</h2>
+                        <h2 class="about-title">about me</h2>
                         <div class="colomn-text">HI! I am a future frontend developer. I want to improve my skills, learn something new for myself. In the future, i see myself in a cool big team with cool project.</div>
                     </section>
                     <section class="skills">
@@ -128,6 +131,25 @@
                                 <p class="colomn-text">Deutcshe (A1)</p>
                             </li>
                         </ul>
+                    </section>
+                    <section class="example">
+                        <h2 class="colomn-title">code example</h2>
+                        <pre><code class="code">
+function getMiddle(str) {
+    let length;
+    let position;
+    
+    if(str.length % 2 === 1) {
+        position = str.length / 2;
+        length = 1;
+    } else {
+        position = str.length / 2-1;
+        length = 2
+    }
+
+    return str.substring(position, position + length);
+}
+                        </code></pre>
                     </section>
                     <section class="hobbies">
                         <h2 class="colomn-title">my hobbies</h2>
