@@ -204,9 +204,17 @@ img {
     height: 30px;
 }
 
+.example {
+    padding-right: 20px;
+}
+
 @media screen and (max-width: 560px) {
     .name {
         font-size: 30px;
+    }
+
+    .example {
+        max-width: 300px;
     }
 
     .surname {
@@ -215,7 +223,7 @@ img {
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1018px){
     .main {
         display: flex;
         flex-wrap: nowrap;
